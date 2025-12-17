@@ -1,1 +1,1 @@
-# My-first-Git-Repo
+My initial project, juat learning git
