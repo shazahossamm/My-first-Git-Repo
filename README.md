@@ -1,1 +1,1 @@
-My initial project, juat learning git
+My initial project, just learning git
